@@ -2,7 +2,7 @@
 
 <li>Bu proje kullanıcı dostu yapısıyla kullanıcılar arasında iletişim kurmak amacıyla tasarlanmış sohbet uygulamasıdır. </li>
 <li>Projede güvenli giriş seçeneği olarak Google hesabı entegre edilmiştir. </li>
-<li>Beğenilen filmleri izleme listesine ekleme ve kaldırma özelliği mevcuttur.</li>
+<li>Sohbet odalarına giriş çıkış seçenekleri mevcuttur.</li>
 
 # Kullanılan Teknolojiler 🎨
 
